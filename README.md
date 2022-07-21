@@ -47,5 +47,5 @@ Written in python based on pyrogram</i>
   <b>Thanks to <a href="https://t.me/jisin_idk">Jisin</a> for his help<br>
   Thanks to <a href="https://t.me/jithumon">Jithumon</a><br>
   Thanks to  the whole <a href="https://t.me/dorasupportteam">Dora support team</a><br>
-  Thanks to our buddy <a href="https://t.me/joel_boban">Joel boban</a> and <a href="https://t.me/blesson_3">Blesson</a><br>
+  Thanks to our buddy <a href="https://t.me/joel_boban">Joel boban</a> and <a href="https://github.com/PREETMEHRA73638/Annabelle">Blesson</a><br>
   Thanks to <a href="https://github.com/usergeteam/userge">Userge</a> for being our inspiration</b>
